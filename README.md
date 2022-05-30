@@ -1,4 +1,4 @@
-# Traing And Placement Cell
+# Training And Placement Cell
 The Domain of the Project is to automate some of the 
 Work manually done in Training and placement cell of 
 college.The main motto is to successfully add students
